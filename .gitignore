@@ -1,0 +1,23 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Agent, AI & tooling artifacts
+.agents/
+.gemini/
+skills-lock.json
+
+# Environment and logs
+.env
+.env.local
+*.log
+
+# Personal documents
+Khaled_Briki_CV.pdf
+
+# Python / temporary artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
